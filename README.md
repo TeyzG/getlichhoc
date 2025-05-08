@@ -18,6 +18,7 @@ Tạo file .env trong thư mục dự án với nội dung:
 
 ![image](https://github.com/user-attachments/assets/f0638eb8-2040-41af-ab2e-856bf0b1497a)
 Chạy Tự Động: Chương trình sẽ tự động chạy vào 6h sáng và 12h trưa mỗi ngày sau khi khởi động.
+![image](https://github.com/user-attachments/assets/60862cbe-28c3-4044-ae76-86c68d345841)
 
 Thư Mục và File
 Thư mục lichhoc: Chứa các file lịch học được lưu tự động, định dạng lich_hoc_YYYY-MM-DD.txt.
