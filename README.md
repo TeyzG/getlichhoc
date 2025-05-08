@@ -12,6 +12,7 @@ Chương trình Python này tự động đăng nhập vào hệ thống quản 
 
 2. **. Cấu Hình:**
 Tạo file .env trong thư mục dự án với nội dung:
+
 ![image](https://github.com/user-attachments/assets/3aa3ea89-a4e3-4571-9f30-b6c11a835025)
 
 Đảm bảo ChromeDriver được đặt đúng đường dẫn
@@ -23,6 +24,7 @@ Chạy Tự Động: Chương trình sẽ tự động chạy vào 6h sáng và 
 Thư Mục và File
 Thư mục lichhoc: Chứa các file lịch học được lưu tự động, định dạng lich_hoc_YYYY-MM-DD.txt.
 File .env: Lưu trữ thông tin đăng nhập (bắt buộc).
+
 ![image](https://github.com/user-attachments/assets/eeb4165d-0235-40e9-8d6d-c25bad2e6f46)
 
 **Ghi Chú**
